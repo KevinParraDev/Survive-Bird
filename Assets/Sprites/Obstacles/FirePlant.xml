@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FirePlant.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fuego instancia 10000" x="2" y="2" width="69" height="96" pivotX="50.25" pivotY="422.55" frameX="-46" frameY="-387" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10001" x="73" y="2" width="69" height="97" frameX="-46" frameY="-386" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10002" x="144" y="2" width="69" height="99" frameX="-46" frameY="-384" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10003" x="215" y="2" width="69" height="100" frameX="-46" frameY="-383" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10004" x="286" y="2" width="90" height="144" frameX="-27" frameY="-339" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10005" x="378" y="2" width="129" height="289" frameX="-6" frameY="-194" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10006" x="509" y="2" width="131" height="468" frameX="-6" frameY="-15" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10007" x="642" y="2" width="107" height="459" frameX="-8" frameY="-24" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10008" x="751" y="2" width="111" height="450" frameX="-4" frameY="-33" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10009" x="864" y="2" width="131" height="447" frameX="-7" frameY="-36" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10010" x="2" y="472" width="124" height="466" frameX="-14" frameY="-17" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10011" x="128" y="472" width="123" height="483" frameX="-6" frameY="0" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10012" x="253" y="472" width="140" height="482" frameX="0" frameY="-1" frameWidth="140" frameHeight="483"/>
+	<SubTexture name="Fuego instancia 10013" x="395" y="472" width="69" height="63" frameX="-46" frameY="-420" frameWidth="140" frameHeight="483"/>
+</TextureAtlas>

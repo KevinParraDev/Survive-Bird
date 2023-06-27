@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 61528fd4390136e418ff3de74e56c9af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5746384922971850469
+    second: Pollo Blanco instancia 10000
+  - first:
+      213: 604738398844865579
+    second: Pollo Blanco instancia 10001
+  - first:
+      213: 6168740820845441987
+    second: Pollo Blanco instancia 10002
+  - first:
+      213: -3419485254060935894
+    second: Pollo Blanco instancia 10003
+  - first:
+      213: 1657731935462340306
+    second: Pollo Blanco instancia 10004
+  - first:
+      213: -4471540190785412895
+    second: Pollo Blanco instancia 10005
+  - first:
+      213: 4294659240654728393
+    second: Pollo Blanco instancia 10006
+  - first:
+      213: 3378772390007432861
+    second: Pollo Blanco instancia 10007
+  - first:
+      213: -142022399606585417
+    second: Pollo Blanco instancia 10008
+  - first:
+      213: 7326635611106158958
+    second: Pollo Blanco instancia 10009
+  - first:
+      213: 4796964334434011190
+    second: Pollo Blanco instancia 10010
+  - first:
+      213: 6495640150395259548
+    second: Pollo Blanco instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 848
+        width: 210
+        height: 174
+      alignment: 9
+      pivot: {x: 0.10238092, y: 1.0166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6c56c44a24fbf40800000000000000
+      internalID: 5746384922971850469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 849
+        width: 210
+        height: 173
+      alignment: 9
+      pivot: {x: 0.10238092, y: 1.0225433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ccf25ae56746800800000000000000
+      internalID: 604738398844865579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 850
+        width: 210
+        height: 172
+      alignment: 9
+      pivot: {x: 0.10238092, y: 1.0284883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3b1f9d715cb9550800000000000000
+      internalID: 6168740820845441987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 862
+        width: 210
+        height: 160
+      alignment: 9
+      pivot: {x: 0.10238092, y: 1.0181249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f205574c8b80d0800000000000000
+      internalID: -3419485254060935894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 686
+        width: 247
+        height: 160
+      alignment: 9
+      pivot: {x: 0.159919, y: 1.0181249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6bd0a8962710710800000000000000
+      internalID: 1657731935462340306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 686
+        width: 247
+        height: 160
+      alignment: 9
+      pivot: {x: 0.159919, y: 1.0181249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06a5143e5e1f1c0800000000000000
+      internalID: -4471540190785412895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 686
+        width: 237
+        height: 160
+      alignment: 9
+      pivot: {x: 0.14978899, y: 1.0181249}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce29643d1b99b30800000000000000
+      internalID: 4294659240654728393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 673
+        width: 202
+        height: 173
+      alignment: 9
+      pivot: {x: 0.08168313, y: 0.94161844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966a43569fc3ee20800000000000000
+      internalID: 3378772390007432861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 415
+        width: 259
+        height: 256
+      alignment: 9
+      pivot: {x: 0.20656368, y: 0.7691406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b70d49416f670ef0800000000000000
+      internalID: -142022399606585417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 379
+        width: 340
+        height: 292
+      alignment: 9
+      pivot: {x: 0.23088233, y: 0.7188356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a5b625407da560800000000000000
+      internalID: 7326635611106158958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 351
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.27209944, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638482295ad329240800000000000000
+      internalID: 4796964334434011190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pollo Blanco instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 226
+        height: 162
+      alignment: 9
+      pivot: {x: 0.12610616, y: 1.0179012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a03192d46252a50800000000000000
+      internalID: 6495640150395259548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Animacion Fuego.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fuego instancia 10000" x="2" y="2" width="144" height="580" pivotX="53.4" pivotY="424"/>
+	<SubTexture name="Fuego instancia 10001" x="148" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10002" x="294" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10003" x="440" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10004" x="586" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10005" x="732" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10006" x="878" y="2" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10007" x="2" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10008" x="148" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10009" x="294" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10010" x="440" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10011" x="586" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10012" x="732" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10013" x="878" y="584" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10014" x="2" y="1166" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10015" x="148" y="1166" width="144" height="580"/>
+	<SubTexture name="Fuego instancia 10016" x="294" y="1166" width="144" height="580"/>
+</TextureAtlas>

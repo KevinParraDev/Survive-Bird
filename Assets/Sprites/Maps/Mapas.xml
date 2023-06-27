@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mapas.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mapa instancia 10000" x="2" y="2" width="387" height="205" pivotX="0" pivotY="0"/>
+	<SubTexture name="Mapa instancia 10001" x="391" y="2" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10002" x="780" y="2" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10003" x="1169" y="2" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10004" x="1558" y="2" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10005" x="2" y="209" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10006" x="391" y="209" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10007" x="780" y="209" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10008" x="1169" y="209" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10009" x="1558" y="209" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10010" x="2" y="416" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10011" x="391" y="416" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10012" x="780" y="416" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10013" x="1169" y="416" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10014" x="1558" y="416" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10015" x="2" y="623" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10016" x="391" y="623" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10017" x="780" y="623" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10018" x="1169" y="623" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10019" x="1558" y="623" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10020" x="2" y="830" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10021" x="2" y="830" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10022" x="391" y="830" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10023" x="780" y="830" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10024" x="1169" y="830" width="387" height="205"/>
+	<SubTexture name="Mapa instancia 10025" x="1558" y="830" width="387" height="205"/>
+</TextureAtlas>

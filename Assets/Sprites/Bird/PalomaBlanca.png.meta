@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 1ace0cebbce00f449980cb996c1b637a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4999646472569908550
+    second: PalomaBlanca instancia 10000
+  - first:
+      213: -3019112907859542589
+    second: PalomaBlanca instancia 10001
+  - first:
+      213: 3742606158081111038
+    second: PalomaBlanca instancia 10002
+  - first:
+      213: 8842644952431214800
+    second: PalomaBlanca instancia 10003
+  - first:
+      213: -1334468151592104181
+    second: PalomaBlanca instancia 10004
+  - first:
+      213: 8461725032023554040
+    second: PalomaBlanca instancia 10005
+  - first:
+      213: 8561667918945389361
+    second: PalomaBlanca instancia 10006
+  - first:
+      213: 8161704107023511286
+    second: PalomaBlanca instancia 10007
+  - first:
+      213: 1782558116122197647
+    second: PalomaBlanca instancia 10008
+  - first:
+      213: 6215031708003127800
+    second: PalomaBlanca instancia 10009
+  - first:
+      213: 7882658598507320002
+    second: PalomaBlanca instancia 10010
+  - first:
+      213: -7941183999911084057
+    second: PalomaBlanca instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d60104aff426540800000000000000
+      internalID: 4999646472569908550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3c366ec4f916d0800000000000000
+      internalID: -3019112907859542589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef33d9ab87860f330800000000000000
+      internalID: 3742606158081111038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d04090ebb267ba70800000000000000
+      internalID: 8842644952431214800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc74459440b7de0800000000000000
+      internalID: -1334468151592104181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f77bc0a5161e6570800000000000000
+      internalID: 8461725032023554040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b09915c9721d670800000000000000
+      internalID: 8561667918945389361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feabfc84a2344170800000000000000
+      internalID: 8161704107023511286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef3f6892becb810800000000000000
+      internalID: 1782558116122197647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d057e86a304650800000000000000
+      internalID: 6215031708003127800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c215b13b34d46d60800000000000000
+      internalID: 7882658598507320002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PalomaBlanca instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb84de93f3bc190800000000000000
+      internalID: -7941183999911084057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

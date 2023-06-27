@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 8f738112f148da147adfbbe59d7dda43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3306037305827565065
+    second: Fuego Oscuro instancia 10000
+  - first:
+      213: -3347891552410619621
+    second: Fuego Oscuro instancia 10001
+  - first:
+      213: 8483770241140062638
+    second: Fuego Oscuro instancia 10002
+  - first:
+      213: 7805544406733471075
+    second: Fuego Oscuro instancia 10003
+  - first:
+      213: 1114224137759387660
+    second: Fuego Oscuro instancia 10004
+  - first:
+      213: -1271453550799573910
+    second: Fuego Oscuro instancia 10005
+  - first:
+      213: -9084723938464722898
+    second: Fuego Oscuro instancia 10006
+  - first:
+      213: -5271670085859495848
+    second: Fuego Oscuro instancia 10007
+  - first:
+      213: -7776864150466147535
+    second: Fuego Oscuro instancia 10008
+  - first:
+      213: 4237057242346286937
+    second: Fuego Oscuro instancia 10009
+  - first:
+      213: -3693993836370282365
+    second: Fuego Oscuro instancia 10010
+  - first:
+      213: 8430632646026154597
+    second: Fuego Oscuro instancia 10011
+  - first:
+      213: -9200834752236620300
+    second: Fuego Oscuro instancia 10012
+  - first:
+      213: -1761117343664517507
+    second: Fuego Oscuro instancia 10013
+  - first:
+      213: 5674829888738950632
+    second: Fuego Oscuro instancia 10014
+  - first:
+      213: -5474884600299831936
+    second: Fuego Oscuro instancia 10015
+  - first:
+      213: -7096723075381880030
+    second: Fuego Oscuro instancia 10016
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 926
+        width: 69
+        height: 96
+      alignment: 9
+      pivot: {x: 0.061594203, y: 1.5781251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f165f326989e12d0800000000000000
+      internalID: -3306037305827565065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 926
+        width: 69
+        height: 96
+      alignment: 9
+      pivot: {x: 0.061594203, y: 1.3281251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11b808fe56e981d0800000000000000
+      internalID: -3347891552410619621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 926
+        width: 69
+        height: 96
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.9635418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9fe2bd5186cb570800000000000000
+      internalID: 8483770241140062638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 926
+        width: 69
+        height: 96
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.6302085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db2e9484dd25c60800000000000000
+      internalID: 7805544406733471075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 925
+        width: 69
+        height: 97
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.6237115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00705b23f4867f00800000000000000
+      internalID: 1114224137759387660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 923
+        width: 69
+        height: 99
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.6111113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cae246bb3ea5ee0800000000000000
+      internalID: -1271453550799573910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 922
+        width: 69
+        height: 100
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.60500014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20925df5b39ce180800000000000000
+      internalID: -9084723938464722898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 878
+        width: 90
+        height: 144
+      alignment: 9
+      pivot: {x: 0.25833333, y: 0.42013898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850ba47ccf347d6b0800000000000000
+      internalID: -5271670085859495848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 733
+        width: 129
+        height: 289
+      alignment: 9
+      pivot: {x: 0.34302327, y: 0.20934261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcefc3247031490800000000000000
+      internalID: -7776864150466147535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 554
+        width: 131
+        height: 468
+      alignment: 9
+      pivot: {x: 0.33778626, y: 0.12927353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95feb0fec1d0dca30800000000000000
+      internalID: 4237057242346286937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 563
+        width: 107
+        height: 459
+      alignment: 9
+      pivot: {x: 0.39485982, y: 0.13180831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388baac6d2c4cbcc0800000000000000
+      internalID: -3693993836370282365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 111
+        height: 450
+      alignment: 9
+      pivot: {x: 0.41666666, y: 0.13444448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562533269bf9ff470800000000000000
+      internalID: 8430632646026154597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10012
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 105
+        width: 131
+        height: 447
+      alignment: 9
+      pivot: {x: 0.33015266, y: 0.13534679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5fddb7a81105080800000000000000
+      internalID: -9200834752236620300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10013
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 86
+        width: 124
+        height: 466
+      alignment: 9
+      pivot: {x: 0.2923387, y: 0.12982836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ec8135b114f87e0800000000000000
+      internalID: -1761117343664517507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10014
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 73
+        width: 123
+        height: 479
+      alignment: 9
+      pivot: {x: 0.3597561, y: 0.12630484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edfd0f97bb01ce40800000000000000
+      internalID: 5674829888738950632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10015
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 70
+        width: 140
+        height: 482
+      alignment: 9
+      pivot: {x: 0.35892856, y: 0.12551871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3fd4967d4504b0800000000000000
+      internalID: -5474884600299831936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fuego Oscuro instancia 10016
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 489
+        width: 69
+        height: 63
+      alignment: 9
+      pivot: {x: 0.061594203, y: 0.96031773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b9b8686ff538d90800000000000000
+      internalID: -7096723075381880030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

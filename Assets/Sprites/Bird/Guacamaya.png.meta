@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: d7739793f0927b34a8135e4e3e0274ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4132676450917214349
+    second: Guacamaya instancia 10000
+  - first:
+      213: 3975537867154087913
+    second: Guacamaya instancia 10001
+  - first:
+      213: 4296912921227174634
+    second: Guacamaya instancia 10002
+  - first:
+      213: -4324092341081680339
+    second: Guacamaya instancia 10003
+  - first:
+      213: -6388761872079962430
+    second: Guacamaya instancia 10004
+  - first:
+      213: 8177495320291991900
+    second: Guacamaya instancia 10005
+  - first:
+      213: -6283628990771503466
+    second: Guacamaya instancia 10006
+  - first:
+      213: -494541585595125415
+    second: Guacamaya instancia 10007
+  - first:
+      213: 242653003490851521
+    second: Guacamaya instancia 10008
+  - first:
+      213: 3472663081485481147
+    second: Guacamaya instancia 10009
+  - first:
+      213: 5833088271781085335
+    second: Guacamaya instancia 10010
+  - first:
+      213: -5868995239380062433
+    second: Guacamaya instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guacamaya instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 845
+        width: 210
+        height: 177
+      alignment: 9
+      pivot: {x: 0.10309525, y: 0.999435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ea8416573a5930800000000000000
+      internalID: 4132676450917214349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 845
+        width: 210
+        height: 177
+      alignment: 9
+      pivot: {x: 0.10309525, y: 0.999435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef55da70a2fb2730800000000000000
+      internalID: 3975537867154087913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 846
+        width: 210
+        height: 176
+      alignment: 9
+      pivot: {x: 0.10309525, y: 1.0051136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2288c2983b1ab30800000000000000
+      internalID: 4296912921227174634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 859
+        width: 210
+        height: 163
+      alignment: 9
+      pivot: {x: 0.10309525, y: 0.9993865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d6d10decbdf3c0800000000000000
+      internalID: -4324092341081680339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 680
+        width: 247
+        height: 163
+      alignment: 9
+      pivot: {x: 0.16052632, y: 0.9993865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3d1c2dee8657a0800000000000000
+      internalID: -6388761872079962430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 680
+        width: 247
+        height: 163
+      alignment: 9
+      pivot: {x: 0.16052632, y: 0.9993865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c516c66eaac4c7170800000000000000
+      internalID: 8177495320291991900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 680
+        width: 237
+        height: 163
+      alignment: 9
+      pivot: {x: 0.15042195, y: 0.9993865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ed7b899b01cc8a0800000000000000
+      internalID: -6283628990771503466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 658
+        width: 201
+        height: 185
+      alignment: 9
+      pivot: {x: 0.077860706, y: 0.93999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951b1ff4c090329f0800000000000000
+      internalID: -494541585595125415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 400
+        width: 259
+        height: 256
+      alignment: 9
+      pivot: {x: 0.20714286, y: 0.7691406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1caf0ccfe931e5300800000000000000
+      internalID: 242653003490851521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 364
+        width: 340
+        height: 292
+      alignment: 9
+      pivot: {x: 0.23132354, y: 0.7188356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb43e847ca0613030800000000000000
+      internalID: 3472663081485481147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 336
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790420fc0ea43f050800000000000000
+      internalID: 5833088271781085335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guacamaya instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 226
+        height: 165
+      alignment: 9
+      pivot: {x: 0.12676992, y: 0.9993939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fea40dce32d8ea0800000000000000
+      internalID: -5868995239380062433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

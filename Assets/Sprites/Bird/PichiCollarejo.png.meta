@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 2e582c5cddd4ee14a8b56171450fa277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4674720737345610501
+    second: Pichi collarejo instancia 10000
+  - first:
+      213: 3187393416580325561
+    second: Pichi collarejo instancia 10001
+  - first:
+      213: -2900517525491612160
+    second: Pichi collarejo instancia 10002
+  - first:
+      213: -5642561543169795090
+    second: Pichi collarejo instancia 10003
+  - first:
+      213: 7933125799925338184
+    second: Pichi collarejo instancia 10004
+  - first:
+      213: -4692963328964743558
+    second: Pichi collarejo instancia 10005
+  - first:
+      213: -1428574349776741746
+    second: Pichi collarejo instancia 10006
+  - first:
+      213: 519753986084908468
+    second: Pichi collarejo instancia 10007
+  - first:
+      213: 1413802926698843804
+    second: Pichi collarejo instancia 10008
+  - first:
+      213: -6009390150386915657
+    second: Pichi collarejo instancia 10009
+  - first:
+      213: -2700612392910685988
+    second: Pichi collarejo instancia 10010
+  - first:
+      213: -177589911929091969
+    second: Pichi collarejo instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50323ad2eb1ffd040800000000000000
+      internalID: 4674720737345610501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b060b2cc65eb3c20800000000000000
+      internalID: 3187393416580325561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006074c9daa4fb7d0800000000000000
+      internalID: -2900517525491612160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb951c0c2891b1b0800000000000000
+      internalID: -5642561543169795090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840590f22ef181e60800000000000000
+      internalID: 7933125799925338184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e2f1977be3fdeb0800000000000000
+      internalID: -4692963328964743558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a9252a23fac2ce0800000000000000
+      internalID: -1428574349776741746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd2f2f1f79863700800000000000000
+      internalID: 519753986084908468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eca4c6546de9310800000000000000
+      internalID: 1413802926698843804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e4715f7b5a9ca0800000000000000
+      internalID: -6009390150386915657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87a8c465f758ad0800000000000000
+      internalID: -2700612392910685988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pichi collarejo instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7806cf7ae2198df0800000000000000
+      internalID: -177589911929091969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

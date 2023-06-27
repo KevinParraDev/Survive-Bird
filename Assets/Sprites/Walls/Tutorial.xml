@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tutorial.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CelularTutorial instancia 10000" x="2" y="2" width="1004" height="1021" pivotX="253.7" pivotY="0"/>
+	<SubTexture name="CelularTutorial instancia 10001" x="1008" y="2" width="1004" height="1021"/>
+	<SubTexture name="CelularTutorial instancia 10002" x="2" y="1025" width="1004" height="1021"/>
+	<SubTexture name="CelularTutorial instancia 10003" x="1008" y="1025" width="1004" height="1021"/>
+	<SubTexture name="CelularTutorial instancia 10004" x="2" y="2048" width="1004" height="1021"/>
+	<SubTexture name="CelularTutorial instancia 10005" x="1008" y="2048" width="1004" height="1021"/>
+	<SubTexture name="CelularTutorial instancia 10006" x="2" y="3071" width="1004" height="1021"/>
+</TextureAtlas>

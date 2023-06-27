@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: deb1233222723dc409619a0a7fc62e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -483674311169965490
+    second: Loro instancia 10000
+  - first:
+      213: 6308573799954332197
+    second: Loro instancia 10001
+  - first:
+      213: 6499221870777991887
+    second: Loro instancia 10002
+  - first:
+      213: -571139522690625324
+    second: Loro instancia 10003
+  - first:
+      213: -44340058305125486
+    second: Loro instancia 10004
+  - first:
+      213: 415811643718525930
+    second: Loro instancia 10005
+  - first:
+      213: 7854266119942099375
+    second: Loro instancia 10006
+  - first:
+      213: 8423824164964454651
+    second: Loro instancia 10007
+  - first:
+      213: -191895397927558053
+    second: Loro instancia 10008
+  - first:
+      213: -2000536462636691950
+    second: Loro instancia 10009
+  - first:
+      213: -2539939835919714949
+    second: Loro instancia 10010
+  - first:
+      213: -1220818980332261576
+    second: Loro instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loro instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e428bbfc6c4a949f0800000000000000
+      internalID: -483674311169965490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a3d91627e8c8750800000000000000
+      internalID: 6308573799954332197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc20c2c6bdfd13a50800000000000000
+      internalID: 6499221870777991887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d6d051a7e218f0800000000000000
+      internalID: -571139522690625324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293276fa3f8726ff0800000000000000
+      internalID: -44340058305125486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae36055ac7245c500800000000000000
+      internalID: 415811643718525930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1d8822c65fffc60800000000000000
+      internalID: 7854266119942099375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0de0b527f67e470800000000000000
+      internalID: 8423824164964454651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54ee7cf620465df0800000000000000
+      internalID: -191895397927558053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ec250cfaaac34e0800000000000000
+      internalID: -2000536462636691950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7534292d2250ccd0800000000000000
+      internalID: -2539939835919714949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loro instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fad360b97ce0fe0800000000000000
+      internalID: -1220818980332261576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

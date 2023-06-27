@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FuegoDeDificultad.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fuego de dificultad instancia 10000" x="2" y="2" width="481" height="481" pivotX="110.6" pivotY="182.9"/>
+	<SubTexture name="Fuego de dificultad instancia 10001" x="485" y="2" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10002" x="968" y="2" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10003" x="1451" y="2" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10004" x="2" y="485" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10005" x="485" y="485" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10006" x="968" y="485" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10007" x="1451" y="485" width="481" height="481"/>
+	<SubTexture name="Fuego de dificultad instancia 10008" x="2" y="968" width="481" height="481"/>
+</TextureAtlas>

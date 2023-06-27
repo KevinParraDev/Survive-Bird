@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HuevoColores.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Huevo colores instancia 10000" x="2" y="2" width="310" height="343" pivotX="49" pivotY="16.8" frameX="-313" frameY="-325" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10001" x="314" y="2" width="328" height="330" frameX="-304" frameY="-338" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10002" x="644" y="2" width="358" height="304" frameX="-289" frameY="-364" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10003" x="1004" y="2" width="382" height="289" frameX="-277" frameY="-380" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10004" x="1388" y="2" width="387" height="350" frameX="-277" frameY="-354" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10005" x="1777" y="2" width="504" height="461" frameX="-188" frameY="-274" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10006" x="2283" y="2" width="473" height="539" frameX="-245" frameY="-254" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10007" x="2758" y="2" width="476" height="580" frameX="-245" frameY="-264" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10008" x="3236" y="2" width="595" height="419" frameX="-202" frameY="-285" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10009" x="2" y="584" width="595" height="378" frameX="-202" frameY="-302" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10010" x="599" y="584" width="611" height="545" frameX="-220" frameY="-235" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10011" x="599" y="584" width="611" height="545" frameX="-220" frameY="-235" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10012" x="1212" y="584" width="722" height="749" frameX="-175" frameY="-139" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10013" x="1212" y="584" width="722" height="749" frameX="-175" frameY="-139" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10014" x="1936" y="584" width="820" height="874" frameX="-132" frameY="-101" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10015" x="1936" y="584" width="820" height="874" frameX="-132" frameY="-101" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10016" x="2758" y="584" width="921" height="959" frameX="-87" frameY="-58" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10017" x="2758" y="584" width="921" height="959" frameX="-87" frameY="-58" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10018" x="2" y="1545" width="987" height="1046" frameX="-41" frameY="0" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10019" x="2" y="1545" width="987" height="1046" frameX="-41" frameY="0" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10020" x="991" y="1545" width="975" height="1027" frameX="0" frameY="-62" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10021" x="991" y="1545" width="975" height="1027" frameX="0" frameY="-62" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10022" x="1968" y="1545" width="973" height="1053" frameX="-12" frameY="-55" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10023" x="1968" y="1545" width="973" height="1053" frameX="-12" frameY="-55" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10024" x="2943" y="1545" width="919" height="1029" frameX="-30" frameY="-66" frameWidth="1028" frameHeight="1108"/>
+	<SubTexture name="Huevo colores instancia 10025" x="2943" y="1545" width="919" height="1029" frameX="-30" frameY="-66" frameWidth="1028" frameHeight="1108"/>
+</TextureAtlas>

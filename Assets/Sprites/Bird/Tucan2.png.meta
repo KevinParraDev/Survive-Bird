@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 2acfe9a95852f41499da1aa885a5b6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3443321224394921108
+    second: Tucan 2 instancia 10000
+  - first:
+      213: -6867474418369030828
+    second: Tucan 2 instancia 10001
+  - first:
+      213: 3319294919793195645
+    second: Tucan 2 instancia 10002
+  - first:
+      213: 5946914957129501677
+    second: Tucan 2 instancia 10003
+  - first:
+      213: -7608230964254273721
+    second: Tucan 2 instancia 10004
+  - first:
+      213: 3954791656964615903
+    second: Tucan 2 instancia 10005
+  - first:
+      213: -5104647306719837286
+    second: Tucan 2 instancia 10006
+  - first:
+      213: -3200741479733675190
+    second: Tucan 2 instancia 10007
+  - first:
+      213: -1510619950359373762
+    second: Tucan 2 instancia 10008
+  - first:
+      213: 3594975397401092385
+    second: Tucan 2 instancia 10009
+  - first:
+      213: -2004273043231435664
+    second: Tucan 2 instancia 10010
+  - first:
+      213: 6404858919131066019
+    second: Tucan 2 instancia 10011
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10000
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ba064079dd630d0800000000000000
+      internalID: -3443321224394921108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10001
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1726
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4551805e664d1b0a0800000000000000
+      internalID: -6867474418369030828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10002
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a3807a421801e20800000000000000
+      internalID: 3319294919793195645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10003
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1404
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb492935afa78250800000000000000
+      internalID: 5946914957129501677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10004
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f0f768f322a6690800000000000000
+      internalID: -7608230964254273721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10005
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1082
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeed020f0e32e630800000000000000
+      internalID: 3954791656964615903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10006
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934f43f156a829b0800000000000000
+      internalID: -5104647306719837286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10007
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 760
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bbd9a159ea493d0800000000000000
+      internalID: -3200741479733675190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381634a823390be0800000000000000
+      internalID: -1510619950359373762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10009
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 438
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216c52b31be3e130800000000000000
+      internalID: 3594975397401092385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0749c4949446f24e0800000000000000
+      internalID: -2004273043231435664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tucan 2 instancia 10011
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 116
+        width: 362
+        height: 320
+      alignment: 9
+      pivot: {x: 0.2725138, y: 0.6559375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeac47a041a2e850800000000000000
+      internalID: 6404858919131066019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Loro.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Loro instancia 10000" x="2" y="2" width="362" height="320" pivotX="98.65" pivotY="110.1"/>
+	<SubTexture name="Loro instancia 10001" x="366" y="2" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10002" x="2" y="324" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10003" x="366" y="324" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10004" x="2" y="646" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10005" x="366" y="646" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10006" x="2" y="968" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10007" x="366" y="968" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10008" x="2" y="1290" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10009" x="366" y="1290" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10010" x="2" y="1612" width="362" height="320"/>
+	<SubTexture name="Loro instancia 10011" x="366" y="1612" width="362" height="320"/>
+</TextureAtlas>

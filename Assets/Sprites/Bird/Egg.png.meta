@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: d799ddef216afd84d99a6470a64097da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4708400899038916733
+    second: "S\xEDmbolo 2 instancia 10000"
+  - first:
+      213: -1713640811631361350
+    second: "S\xEDmbolo 2 instancia 10001"
+  - first:
+      213: 6095154136296629956
+    second: "S\xEDmbolo 2 instancia 10002"
+  - first:
+      213: 4259609866060915250
+    second: "S\xEDmbolo 2 instancia 10003"
+  - first:
+      213: 8349463945577202540
+    second: "S\xEDmbolo 2 instancia 10004"
+  - first:
+      213: 4224086179378933031
+    second: "S\xEDmbolo 2 instancia 10005"
+  - first:
+      213: 2179283041614330479
+    second: "S\xEDmbolo 2 instancia 10006"
+  - first:
+      213: -4738205623940469261
+    second: "S\xEDmbolo 2 instancia 10007"
+  - first:
+      213: -1263091505917209243
+    second: "S\xEDmbolo 2 instancia 10008"
+  - first:
+      213: -3874823478907736784
+    second: "S\xEDmbolo 2 instancia 10009"
+  - first:
+      213: -5552294576209271037
+    second: "S\xEDmbolo 2 instancia 10010"
+  - first:
+      213: -7323505806614025120
+    second: "S\xEDmbolo 2 instancia 10011"
+  - first:
+      213: 2352651535186057301
+    second: "S\xEDmbolo 2 instancia 10012"
+  - first:
+      213: -8001857587274815089
+    second: "S\xEDmbolo 2 instancia 10013"
+  - first:
+      213: 2595311677868290434
+    second: "S\xEDmbolo 2 instancia 10014"
+  - first:
+      213: -4322730735274170808
+    second: "S\xEDmbolo 2 instancia 10015"
+  - first:
+      213: 3457874294126272088
+    second: "S\xEDmbolo 2 instancia 10016"
+  - first:
+      213: -7527800320984315503
+    second: "S\xEDmbolo 2 instancia 10017"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10000"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1937
+        width: 99
+        height: 109
+      alignment: 9
+      pivot: {x: -0.83232325, y: 1.8958715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fc7a8145668aeb0800000000000000
+      internalID: -4708400899038916733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10001"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1941
+        width: 106
+        height: 105
+      alignment: 9
+      pivot: {x: -0.74905664, y: 1.9680952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2c916d2cce738e0800000000000000
+      internalID: -1713640811631361350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10002"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1949
+        width: 114
+        height: 97
+      alignment: 9
+      pivot: {x: -0.66140354, y: 2.1304123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a639b466569450800000000000000
+      internalID: 6095154136296629956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10003"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1953
+        width: 122
+        height: 93
+      alignment: 9
+      pivot: {x: -0.5852459, y: 2.2327957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2326f44da9c2d1b30800000000000000
+      internalID: 4259609866060915250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10004"
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1934
+        width: 124
+        height: 112
+      alignment: 9
+      pivot: {x: -0.57580644, y: 1.9522321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c638f0d98314fd370800000000000000
+      internalID: 8349463945577202540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10005"
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1899
+        width: 161
+        height: 147
+      alignment: 9
+      pivot: {x: -0.26956522, y: 1.5554421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da48efff7fe9a30800000000000000
+      internalID: 4224086179378933031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10006"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1874
+        width: 151
+        height: 172
+      alignment: 9
+      pivot: {x: -0.40662253, y: 1.4340116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a7478416e5e3e10800000000000000
+      internalID: 2179283041614330479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10007"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1687
+        width: 152
+        height: 185
+      alignment: 9
+      pivot: {x: -0.40394738, y: 1.4197297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2540d6138e3eb0800000000000000
+      internalID: -4738205623940469261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10008"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1738
+        width: 190
+        height: 134
+      alignment: 9
+      pivot: {x: -0.24947369, y: 1.6317164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565ddfea7f8987ee0800000000000000
+      internalID: -1263091505917209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10009"
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1751
+        width: 190
+        height: 121
+      alignment: 9
+      pivot: {x: -0.24947369, y: 1.7409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d6c5c539cd93ac0800000000000000
+      internalID: -3874823478907736784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10010"
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1698
+        width: 195
+        height: 174
+      alignment: 9
+      pivot: {x: -0.27384615, y: 1.3945402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307e7b0108942f2b0800000000000000
+      internalID: -5552294576209271037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10011"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1633
+        width: 230
+        height: 239
+      alignment: 9
+      pivot: {x: -0.17130435, y: 1.1575314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca24e354ead5a90800000000000000
+      internalID: -7323505806614025120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10012"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1353
+        width: 261
+        height: 278
+      alignment: 9
+      pivot: {x: -0.09731801, y: 1.0958633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558da0b3b1c46a020800000000000000
+      internalID: 2352651535186057301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10013"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1327
+        width: 293
+        height: 304
+      alignment: 9
+      pivot: {x: -0.038907852, y: 1.0449013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8968378be0b3f090800000000000000
+      internalID: -8001857587274815089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10014"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1298
+        width: 314
+        height: 333
+      alignment: 9
+      pivot: {x: 0.008280253, y: 0.9839339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28133c07836640420800000000000000
+      internalID: 2595311677868290434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10015"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 970
+        width: 310
+        height: 326
+      alignment: 9
+      pivot: {x: 0.050322577, y: 1.0449387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e1509c439204c0800000000000000
+      internalID: -4322730735274170808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10016"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 962
+        width: 309
+        height: 334
+      alignment: 9
+      pivot: {x: 0.03754045, y: 1.0378742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed9539956dcff20800000000000000
+      internalID: 3457874294126272088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "S\xEDmbolo 2 instancia 10017"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 969
+        width: 292
+        height: 327
+      alignment: 9
+      pivot: {x: 0.022602737, y: 1.0478593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19988a7fd71e78790800000000000000
+      internalID: -7527800320984315503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

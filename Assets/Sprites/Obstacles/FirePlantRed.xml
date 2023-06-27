@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FirePlantRed.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Fuego Oscuro instancia 10000" x="2" y="2" width="69" height="96" pivotX="50.25" pivotY="421.5" frameX="-46" frameY="-477" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10001" x="73" y="2" width="69" height="96" frameX="-46" frameY="-453" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10002" x="144" y="2" width="69" height="96" frameX="-46" frameY="-418" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10003" x="215" y="2" width="69" height="96" frameX="-46" frameY="-386" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10004" x="286" y="2" width="69" height="97" frameX="-46" frameY="-385" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10005" x="357" y="2" width="69" height="99" frameX="-46" frameY="-383" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10006" x="428" y="2" width="69" height="100" frameX="-46" frameY="-382" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10007" x="499" y="2" width="90" height="144" frameX="-27" frameY="-338" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10008" x="591" y="2" width="129" height="289" frameX="-6" frameY="-193" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10009" x="722" y="2" width="131" height="468" frameX="-6" frameY="-14" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10010" x="855" y="2" width="107" height="459" frameX="-8" frameY="-23" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10011" x="2" y="472" width="111" height="450" frameX="-4" frameY="-32" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10012" x="115" y="472" width="131" height="447" frameX="-7" frameY="-35" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10013" x="248" y="472" width="124" height="466" frameX="-14" frameY="-16" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10014" x="374" y="472" width="123" height="479" frameX="-6" frameY="-3" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10015" x="499" y="472" width="140" height="482" frameX="0" frameY="0" frameWidth="140" frameHeight="573"/>
+	<SubTexture name="Fuego Oscuro instancia 10016" x="641" y="472" width="69" height="63" frameX="-46" frameY="-419" frameWidth="140" frameHeight="573"/>
+</TextureAtlas>
