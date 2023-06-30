@@ -6,7 +6,8 @@ Survive Bird es un Juego casual para android en el que serás un ave y tendrás 
 todos los obstaculos que aparecen en pantalla, el juego cuenta con mas de 30 aves diferentes, consiguelas todas!
 
 ## ¿Como Jugarlo?
-El juego está disponible en itch.io, puedes jugarlo desde tu navegador o instalarlo en tu movil visitando el siguiente link: https://santiago-parra.itch.io/zeris-adventure.
+El juego está disponible en itch.io y lo puedes encontrar en el siguiente enlace: https://santiago-parra.itch.io/survive-bird, puedes jugarlo en tu navegador
+desde el pc o celular, proximamente en la PlayStore.
 
 ## Gameplay
 [![Alt text](https://img.youtube.com/vi/B6aaNSXehuA/0.jpg)](https://youtube.com/shorts/B6aaNSXehuA)
