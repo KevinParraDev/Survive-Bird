@@ -81,7 +81,7 @@ TextureImporter:
       213: 1232988453214313146
     second: Mapa instancia 10025
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -101,6 +101,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -132,13 +134,65 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -708,6 +762,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Mapa instancia 10000: -6834641110806797416
+      Mapa instancia 10001: 657934912841881816
+      Mapa instancia 10002: -192759515626457697
+      Mapa instancia 10003: -7933250559053222889
+      Mapa instancia 10004: 5693845547016750097
+      Mapa instancia 10005: 5229200742228698003
+      Mapa instancia 10006: 6241320286348463580
+      Mapa instancia 10007: 6527858264464389933
+      Mapa instancia 10008: -7790682179104643402
+      Mapa instancia 10009: 2612274207966959418
+      Mapa instancia 10010: -4069130965294650098
+      Mapa instancia 10011: 6817771426351821215
+      Mapa instancia 10012: 3188669648367971579
+      Mapa instancia 10013: 80004190463138467
+      Mapa instancia 10014: 4177794438964144926
+      Mapa instancia 10015: 8401512095615617288
+      Mapa instancia 10016: -1150744194755095778
+      Mapa instancia 10017: -3947870874406986264
+      Mapa instancia 10018: -401609836568291437
+      Mapa instancia 10019: -1237198061088705312
+      Mapa instancia 10020: 567813929921004100
+      Mapa instancia 10021: -1151516217061746268
+      Mapa instancia 10022: -3180230915710518656
+      Mapa instancia 10023: -550061541802793589
+      Mapa instancia 10024: -2090789348450279057
+      Mapa instancia 10025: 1232988453214313146
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

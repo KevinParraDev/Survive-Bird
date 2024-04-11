@@ -105,6 +105,14 @@ public class BirdController : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || (Input.GetKeyDown(KeyCode.A)))
+            Touch("Leght");
+        if (Input.GetKeyDown(KeyCode.RightArrow) || (Input.GetKeyDown(KeyCode.D)))
+            Touch("Right");
+    }
+
     public void Touch(string direction)
     {
         if (canTouch)

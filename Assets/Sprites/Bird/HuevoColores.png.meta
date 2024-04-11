@@ -81,7 +81,7 @@ TextureImporter:
       213: -4179631829466157606
     second: Huevo colores instancia 10025
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -101,6 +101,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -132,10 +134,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -183,6 +189,18 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -744,6 +762,33 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Huevo colores instancia 10000: 5727825342721906150
+      Huevo colores instancia 10001: -7954400589424932842
+      Huevo colores instancia 10002: -7394556244685636134
+      Huevo colores instancia 10003: 4694503801911268149
+      Huevo colores instancia 10004: -8623357238892600839
+      Huevo colores instancia 10005: 4808177165341698147
+      Huevo colores instancia 10006: 7199664828893501365
+      Huevo colores instancia 10007: 2834053873309519984
+      Huevo colores instancia 10008: 5304823786386892744
+      Huevo colores instancia 10009: 1838531318428151855
+      Huevo colores instancia 10010: 5054400168999498911
+      Huevo colores instancia 10011: -6269373190424889357
+      Huevo colores instancia 10012: -3843315602501715540
+      Huevo colores instancia 10013: 3009880186540262682
+      Huevo colores instancia 10014: -6207267006367127328
+      Huevo colores instancia 10015: 5523897423715988155
+      Huevo colores instancia 10016: -7081883794289328486
+      Huevo colores instancia 10017: -7102631838533230325
+      Huevo colores instancia 10018: 1972145457233403547
+      Huevo colores instancia 10019: -9163420682380438935
+      Huevo colores instancia 10020: 7914752267956017584
+      Huevo colores instancia 10021: 7528575345636811494
+      Huevo colores instancia 10022: -8507089422254349153
+      Huevo colores instancia 10023: -3324948796621497291
+      Huevo colores instancia 10024: -2918123647074953193
+      Huevo colores instancia 10025: -4179631829466157606
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

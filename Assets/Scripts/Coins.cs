@@ -33,4 +33,9 @@ public class Coins : MonoBehaviour
         coins = coins + i;
         ActualizeCoinsTxt();
     }
+
+    public int SeeCoins()
+    {
+        return coins;
+    }
 }

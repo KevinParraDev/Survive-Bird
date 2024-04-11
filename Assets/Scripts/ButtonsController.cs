@@ -10,6 +10,7 @@ public class ButtonsController : MonoBehaviour
 
     public GameObject timeGO;
     public GameObject startPanelGO;
+    public GameObject eggIcon;
     public GameObject[] musicButtomsGO;
     public GameObject[] soundButtomsGO;
     public GameObject blackCurtainGO;
@@ -32,8 +33,8 @@ public class ButtonsController : MonoBehaviour
     public BirdController birdController;
     public TimeController timeController;
     public BirdsAnimations birdsAnimations;
-    public ShowIntersticial showIntersticial;
     public Score score;
+    public Coins coins;
 
     public AudioSource music;
     public AudioSource[] soundEfects;
@@ -59,6 +60,11 @@ public class ButtonsController : MonoBehaviour
         isTryAgainButtom = false;
         birdRB.isKinematic = true;
         startButtomRB.isKinematic = true;
+
+        if (coins.SeeCoins() > 99)
+            eggIcon.SetActive(true);
+        else
+            eggIcon.SetActive(false);
     }
 
     public void ShowTryAgainButtom()
@@ -88,8 +94,13 @@ public class ButtonsController : MonoBehaviour
 
         birdController.canTouch = false;
 
+        if(coins.SeeCoins() > 99)
+            eggIcon.SetActive(true);
+        else
+            eggIcon.SetActive(false);
+
         //advertisingController.PutAd();
-        showIntersticial.EnableIntersticialPanel();
+        //showIntersticial.EnableIntersticialPanel();
 
         StartCoroutine(DelayForChangeButtoms(0.5f));
     }
