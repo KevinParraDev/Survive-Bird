@@ -7,6 +7,7 @@ public class Coins : MonoBehaviour
 {
     public Text coinsTXT;
     public static int coins;
+    public GameObject eggIcon;
 
     void Start()
     {
@@ -26,6 +27,12 @@ public class Coins : MonoBehaviour
         PlayerPrefs.SetInt("coinsKey", coins);
 
         coinsTXT.text = coins.ToString();
+
+        if (coins > 99 && eggIcon.activeInHierarchy == false)
+            eggIcon.SetActive(true);
+        else if (coins < 100 && eggIcon.activeInHierarchy == true)
+            eggIcon.SetActive(false);
+
     }
 
     public void GetCoin(int i)

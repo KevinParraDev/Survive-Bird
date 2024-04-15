@@ -33,6 +33,7 @@ public class ButtonsController : MonoBehaviour
     public BirdController birdController;
     public TimeController timeController;
     public BirdsAnimations birdsAnimations;
+    public GoogleMobileAdsDemoScript adManager;
     public Score score;
     public Coins coins;
 
@@ -101,6 +102,7 @@ public class ButtonsController : MonoBehaviour
 
         //advertisingController.PutAd();
         //showIntersticial.EnableIntersticialPanel();
+        adManager.ShowInterstitialAd();
 
         StartCoroutine(DelayForChangeButtoms(0.5f));
     }
